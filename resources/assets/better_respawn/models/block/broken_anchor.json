@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "better_respawn:block/broken_anchor",
+    "particle": "better_respawn:block/broken_anchor"
+  },
+  "render_type": "cutout_mipped"
+}

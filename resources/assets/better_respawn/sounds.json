@@ -1,0 +1,310 @@
+{
+  "memoryanchorcharge": {
+    "subtitle": "subtitles.memoryanchorcharge",
+    "sounds": [
+      {
+        "name": "better_respawn:memoryanchorcharge1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:memoryanchorcharge2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:memoryanchorcharge3",
+        "stream": false
+      }
+    ]
+  },
+  "memoryanchordeplete": {
+    "subtitle": "subtitles.memoryanchordeplete",
+    "sounds": [
+      {
+        "name": "better_respawn:memoryanchordeplete1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:memoryanchordeplete2",
+        "stream": false
+      }
+    ]
+  },
+  "memoryanchorset": {
+    "subtitle": "subtitles.memoryanchorset",
+    "sounds": [
+      {
+        "name": "better_respawn:memoryanchorset1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:memoryanchorset2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:memoryanchorset3",
+        "stream": false
+      }
+    ]
+  },
+  "duatanchorcharge": {
+    "subtitle": "subtitles.duatanchorcharge",
+    "sounds": [
+      {
+        "name": "better_respawn:duatanchorcharge1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:duatanchorcharge2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:duatanchorcharge3",
+        "stream": false
+      }
+    ]
+  },
+  "duatanchordeplete": {
+    "subtitle": "subtitles.duatanchordeplete",
+    "sounds": [
+      {
+        "name": "better_respawn:duatanchordeplete1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:duatanchordeplete2",
+        "stream": false
+      }
+    ]
+  },
+  "duatanchorset": {
+    "subtitle": "subtitles.duatanchorset",
+    "sounds": [
+      {
+        "name": "better_respawn:duatanchorset1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:duatanchorset2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:duatanchorset3",
+        "stream": false
+      }
+    ]
+  },
+  "abzuanchorcharge": {
+    "subtitle": "subtitles.abzuanchorcharge",
+    "sounds": [
+      {
+        "name": "better_respawn:abzuanchorcharge1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:abzuanchorcharge2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:abzuanchorcharge3",
+        "stream": false
+      }
+    ]
+  },
+  "abzuanchordeplete": {
+    "subtitle": "subtitles.abzuanchordeplete",
+    "sounds": [
+      {
+        "name": "better_respawn:abzuanchordeplete1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:abzuanchordeplete2",
+        "stream": false
+      }
+    ]
+  },
+  "abzuanchorset": {
+    "subtitle": "subtitles.abzuanchorset",
+    "sounds": [
+      {
+        "name": "better_respawn:abzuanchorset1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:abzuanchorset2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:abzuanchorset3",
+        "stream": false
+      }
+    ]
+  },
+  "khaosanchorcharge": {
+    "subtitle": "subtitles.khaosanchorcharge",
+    "sounds": [
+      {
+        "name": "better_respawn:khaosanchorcharge3",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:khaosanchorcharge2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:khaosanchorcharge1",
+        "stream": false
+      }
+    ]
+  },
+  "khaosanchorset": {
+    "subtitle": "subtitles.khaosanchorset",
+    "sounds": [
+      {
+        "name": "better_respawn:khaosanchorset3",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:khaosanchorset2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:khaosanchorset1",
+        "stream": false
+      }
+    ]
+  },
+  "khaosanchordeplete": {
+    "subtitle": "subtitles.khaosanchordeplete",
+    "sounds": [
+      {
+        "name": "better_respawn:khaosanchordeplete2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:khaosanchordeplete1",
+        "stream": false
+      }
+    ]
+  },
+  "memoryanchorambient": {
+    "subtitle": "subtitles.memoryanchorambient",
+    "sounds": [
+      {
+        "name": "better_respawn:anchor.memory.pulse5",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.memory.pulse4",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.memory.pulse3",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.memory.pulse2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.memory.pulse1",
+        "stream": false
+      }
+    ]
+  },
+  "abzuanchorambient": {
+    "subtitle": "subtitles.abzuanchorambient",
+    "sounds": [
+      {
+        "name": "better_respawn:anchor.abzu.bubble2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.abzu.bubble1",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.abzu.bubble.6",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.abzu.bubble.5",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.abzu.bubble.4",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.abzu.bubble.3",
+        "stream": false
+      }
+    ]
+  },
+  "duatanchorambient": {
+    "subtitle": "subtitles.duatanchorambient",
+    "sounds": [
+      {
+        "name": "better_respawn:anchor.duat.hum7",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum6",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum5",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum4",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum3",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.duat.hum1",
+        "stream": false
+      }
+    ]
+  },
+  "khaosanchorambient": {
+    "subtitle": "subtitles.khaosanchorambient",
+    "sounds": [
+      {
+        "name": "better_respawn:anchor.khaos.shimmer7",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer6",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer5",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer4",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer3",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer2",
+        "stream": false
+      },
+      {
+        "name": "better_respawn:anchor.khaos.shimmer1",
+        "stream": false
+      }
+    ]
+  }
+}

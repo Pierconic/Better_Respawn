@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "better_respawn:deactivated_memory_anchor"
+    }
+  },
+  "result": {
+    "id": "better_respawn:deactivated_duat_anchor",
+    "count": 1
+  }
+}

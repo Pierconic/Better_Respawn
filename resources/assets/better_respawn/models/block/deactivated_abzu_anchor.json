@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_respawn:block/abzu_anchor_top",
+    "up": "better_respawn:block/abzu_anchor_top",
+    "north": "better_respawn:block/abzu_anchor_deactivated",
+    "east": "better_respawn:block/abzu_anchor_deactivated",
+    "south": "better_respawn:block/abzu_anchor_deactivated",
+    "west": "better_respawn:block/abzu_anchor_deactivated",
+    "particle": "better_respawn:block/broken_anchor"
+  },
+  "render_type": "cutout_mipped"
+}

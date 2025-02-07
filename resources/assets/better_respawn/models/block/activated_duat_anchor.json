@@ -1,0 +1,11 @@
+{
+  "parent": "better_respawn:custom/spawner_block",
+  "textures": {
+    "all": "better_respawn:block/duat_anchor_top",
+    "particle": "better_respawn:block/broken_anchor",
+    "0": "better_respawn:block/duat_anchor_lit",
+    "1": "better_respawn:block/duat_anchor_top",
+    "2": "better_respawn:block/spawner_flame_duat"
+  },
+  "render_type": "cutout_mipped"
+}

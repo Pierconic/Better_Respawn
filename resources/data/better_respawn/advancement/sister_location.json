@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "better_respawn:activated_duat_anchor"
+    },
+    "title": {
+      "translate": "advancements.sister_location.title"
+    },
+    "description": {
+      "translate": "advancements.sister_location.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sister_location_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:nether/obtain_crying_obsidian"
+}

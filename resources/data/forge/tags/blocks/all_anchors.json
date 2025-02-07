@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "better_respawn:deactivated_memory_anchor",
+    "better_respawn:activated_memory_anchor",
+    "better_respawn:deactivated_duat_anchor",
+    "better_respawn:activated_duat_anchor",
+    "better_respawn:deactivated_abzu_anchor",
+    "better_respawn:activated_abzu_anchor",
+    "better_respawn:deactivated_khaos_anchor",
+    "better_respawn:activated_khaos_anchor"
+  ]
+}

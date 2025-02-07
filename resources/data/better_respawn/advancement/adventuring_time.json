@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_boots"
+    },
+    "title": {
+      "translate": "advancements.adventuring_time.title"
+    },
+    "description": {
+      "translate": "advancements.adventuring_time.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adventuring_time_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "better_respawn:strange_dreams"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "better_respawn:activated_memory_anchor"
+    },
+    "title": {
+      "translate": "advancements.strange_dreams.title"
+    },
+    "description": {
+      "translate": "advancements.strange_dreams.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "strange_dreams_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

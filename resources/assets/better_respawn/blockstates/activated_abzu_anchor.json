@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "better_respawn:block/activated_abzu_anchor"
+    },
+    "blockstate=1": {
+      "model": "better_respawn:block/abzu_anchor_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "better_respawn:block/abzu_anchor_states_blockstate_1"
+    }
+  }
+}

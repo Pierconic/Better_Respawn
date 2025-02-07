@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:leather_boots"
+    },
+    "title": {
+      "translate": "advancements.light_as_a_feather.title"
+    },
+    "description": {
+      "translate": "advancements.light_as_a_feather.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "light_as_a_feather_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "better_respawn:strange_dreams"
+}

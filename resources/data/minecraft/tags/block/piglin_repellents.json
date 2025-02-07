@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "better_respawn:activated_memory_anchor",
+    "better_respawn:activated_duat_anchor",
+    "better_respawn:activated_abzu_anchor",
+    "minecraft:soul_torch",
+    "minecraft:soul_wall_torch",
+    "minecraft:soul_fire",
+    "minecraft:soul_lantern",
+    "minecraft:soul_campfire",
+    "better_respawn:activated_khaos_anchor"
+  ]
+}

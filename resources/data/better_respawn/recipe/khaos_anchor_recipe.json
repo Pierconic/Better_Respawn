@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:purpur_block"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "d": {
+      "item": "better_respawn:deactivated_duat_anchor"
+    }
+  },
+  "result": {
+    "id": "better_respawn:deactivated_khaos_anchor",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "d": {
+      "item": "better_respawn:deactivated_memory_anchor"
+    }
+  },
+  "result": {
+    "id": "better_respawn:deactivated_abzu_anchor",
+    "count": 1
+  }
+}
